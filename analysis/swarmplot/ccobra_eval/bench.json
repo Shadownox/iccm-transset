@@ -1,0 +1,17 @@
+{
+    "data.train": "data/Ragni2016.csv",
+    "data.test": "data/Ragni2016.csv",
+    "corresponding_data": false,
+    "models": [
+        "model/MFA-Model/mfa_model.py",
+        "model/Atmosphere/atmosphere.py",
+        "model/Conversion/conversion.py",
+        "model/Transset/transset.py",
+        "model/Matching/matching.py",
+        "model/MentalModels/mmt.py",
+        "model/PHM/phm.py",
+        "model/PSYCOP/psycop.py",
+        "model/Uniform-Model/uniform_model.py",
+        "model/VerbalModels/verbalmodels.py"
+    ]
+}
