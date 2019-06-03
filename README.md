@@ -1,7 +1,7 @@
 ICCM TransSet
 =============
 
-Companion repository for the 2019 article "" published for the 17th Annual Meeting of the International Conference on Cognitive Modelling.
+Companion repository for the 2019 article "On the Matter of Aggregate Models for Syllogistic Reasoning: A Transitive Set-Based Account for Predicting the Population" published for the 17th Annual Meeting of the International Conference on Cognitive Modelling.
 
 ## Overview
 
@@ -52,4 +52,4 @@ $> ccobra bench.json -s results.csv
 
 ## Reference
 
-Brand, D., Riesterer, N., & Ragni, M. (2019). On the Matter of Aggregate Models for Syllogistic Reasoning: A Transitive Set-Based Account for Predicting the Population. In Stewart T. (Ed.), Proceedings of the 17th International Conference on Cognitive Modeling.
+Brand, D., Riesterer, N., & Ragni, M. (2019). On the Matter of Aggregate Models for Syllogistic Reasoning: A Transitive Set-Based Account for Predicting the Population. In Stewart T. (Ed.), *Proceedings of the 17th International Conference on Cognitive Modeling*.
